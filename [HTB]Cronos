@@ -1,0 +1,9 @@
+CRONOS - 10.10.10.13 - LINUX - EASY - OSCP LIKE
+
+This machine has to be tackled mostly via web.
+
+A first scann will show the below ports open:
+22/TCP
+53/TCP    #ODD, DNS is mostly UDP, so maybe we can try some DNS Zone transfer?
+80/TCP
+
